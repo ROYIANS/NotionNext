@@ -1,0 +1,4 @@
+const CONFIG_DREAMLAND = {
+  TEST_CONFIG: 'TESET'
+}
+export default CONFIG_DREAMLAND
